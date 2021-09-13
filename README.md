@@ -1,8 +1,13 @@
-# Summer-Olympics
-A Data Analysis Assignment given by Ashish Jangra Sir, who is the mentor for Skill India AI-ML Scholarship. It is our 2nd Assignment of Python for ML/AI Internship.
+# Summer-Olympics   
+<p align="center">
+  <img width="460" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xLhNTJcg28lz7qFqYrMWackTRFPgs6xHCg&usqp=CAU/460/300">
+</p>
+
+### A Data Analysis Assignment given by Ashish Jangra Sir, who is the mentor for Skill India AI-ML Scholarship. It's our 2nd Assignment of Python for ML/AI Internship.
 -----
 ### About the Repository?
-This is a Summer Olympics Assignment in which we were asked to solve some particular questions using using Python codes and graphs. This repository contains one notebook file & one csv file. They are: Summer Olympics.ipynb & summer.csv
+This is a Summer Olympics Assignment in which we were asked to solve some particular questions using Python codes and graphs. This repository contains one notebook file & one csv file. They are: Summer Olympics.ipynb & summer.csv
+A dedicated video for this repository (must watch) - 
 
 -----
 ### Questions are mentioned below:
