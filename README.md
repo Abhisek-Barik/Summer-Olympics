@@ -7,8 +7,8 @@
 -----
 ### About the Repository?
 This is a Summer Olympics Assignment in which we were asked to solve some particular questions using Python codes and graphs. This repository contains one notebook file & one csv file. They are: Summer Olympics.ipynb & summer.csv
-A dedicated video for this repository (must watch) - 
-
+- A dedicated video for this repository (must watch) - 
+https://www.linkedin.com/posts/i-am-abhisek-barik_elitetechnogroups-etg-python-activity-6843346716905893888-ETwI
 -----
 ### Questions are mentioned below:
 There were total 8 Questions given us to solve by analysing the "summer.csv" file.
